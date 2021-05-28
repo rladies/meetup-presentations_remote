@@ -1,2 +1,2 @@
-# meetup-presentations_remote
-R-Ladies Remotes meetup presentations 
+# R-Ladies Remotes meetup presentations 
+A home for remote talks and related resources!
