@@ -10,7 +10,7 @@ You will find the links to join here: https://www.youtube.com/c/WhyRFoundationVi
 
 ## Speakers
 ### Afiqah Syamimi binti Masrani
-<img src="https://github.com/rladies/meetup-presentations_remote/blob/master/2021_whyR/afiqah.jpg" width="700">
+<img src="https://github.com/rladies/meetup-presentations_remote/blob/main/2021_whyR/afiqah.jpg" width="700">
 
 #### Bio
 Afiqah is in her first year as a student for Doctor of Public Health in Universiti Sains Malaysia, specializing in Occupational and Environmental Health.
@@ -29,7 +29,7 @@ including cox-hazard analysis.
 Video: https://www.youtube.com/watch?v=ryJst_ICKik
 
 ### Tulimegameno “Tuli” Amutenya
-<img src="https://github.com/rladies/meetup-presentations_remote/blob/master/2021_whyR/tuli.jpg" width="700">
+<img src="https://github.com/rladies/meetup-presentations_remote/blob/main/2021_whyR/tuli.jpg" width="700">
 
 #### Bio
 **Tulimegameno “Tuli” Amutenya** is from Namibia and works for Namibia Statistics Agency (NSA) as a Data Processing Manager,
@@ -50,7 +50,7 @@ Using tools such as R and Machine learning can support survey data processing an
 Video: https://www.youtube.com/watch?v=C26apzaSUiM
 
 ### Beatriz E. Valdez
-<img src="https://github.com/rladies/meetup-presentations_remote/blob/master/2021_whyR/beva.jpg" width="700">
+<img src="https://github.com/rladies/meetup-presentations_remote/blob/main/2021_whyR/beva.jpg" width="700">
 
 #### Bio
 Beatriz is a Professor of Sociology at Central University of Venezuela. Her interests include text mining and analytics, text network analysis, topic modelling,
