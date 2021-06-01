@@ -6,7 +6,7 @@ June 03, 2021
 - [**Beatriz Valdez**](https://github.com/rladies/meetup-presentations_remote/tree/main/2021_whyR#beatriz-e-valdez) (Venezuela), _Using R and text mining to find a common ground for action in Polarized contexts_, 8pm UTC ([local time](https://arewemeetingyet.com/UTC/2021-06-03/20:00/Beatriz%20Valdez%20Talk))
 
 The webinars will be live-streamed on YouTube, so there is no need to RSVP, just join sessions as you can on the day! <br>
-You will find the links to join here: https://www.youtube.com/c/WhyRFoundationVideos/featured (times will be fixed to match the above!)
+You will find the links to join here: https://www.youtube.com/c/WhyRFoundationVideos/featured
 
 ## Speakers
 ### Afiqah Syamimi binti Masrani
